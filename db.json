@@ -1,16 +1,76 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"members": [
+		{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "10 february 2021",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "06 february 2021",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "16 february 2021",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "10 february 2021",
+					"end_time": "Feb 2 2020 1:54PM"
+				},
+				{
+					"start_time": "12 february 2021",
+					"end_time": "Mar 2 2020 2:00PM"
+				},
+				{
+					"start_time": "17 march 2020",
+					"end_time": "Mar 17 2020 8:02PM"
+				}
+			]
+		},
+    	{
+			"id": "W07QCRQB5",
+			"real_name": "James Smith",
+			"tz": "Asia/Dubai",
+			"activity_periods": [{
+					"start_time": "10 march 2020",
+					"end_time": "Feb 11 2020 2:54PM"
+				},
+				{
+					"start_time": "09 march 2021",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "09 february 2021",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+   	 	{
+			"id": "W07QCRWC6",
+			"real_name": "Michael Smith",
+			"tz": "Europe/Vienna",
+			"activity_periods": [{
+					"start_time": "15 february 2021",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "18 february 2021",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "09 april 2020",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		}
+	]
 }
